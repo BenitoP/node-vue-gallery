@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.400.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "braces": "^3.0.2",
     "config": "^3.0.1",
